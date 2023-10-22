@@ -115,6 +115,7 @@ export default function Contact() {
                     mapElement={<div style={{ height: `100%` }} />}
                 />
             </div> */}
+			<div className='h-6' />
 			<MapMigrated />
 		</div>
 	)

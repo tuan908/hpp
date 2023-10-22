@@ -47,7 +47,6 @@ function MapMigrated() {
 			onUnmount={onUnmount}
 		>
 			<Marker position={center} title='Health Pacific Partners' />
-			<h1>Test</h1>
 		</GoogleMap>
 	)
 }
